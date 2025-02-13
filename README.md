@@ -1,4 +1,4 @@
-```mdx
+
 ---
 title: "Keyword Driver Framework in Python"
 description: "A detailed guide on implementing a keyword-driven test automation framework in Python."
